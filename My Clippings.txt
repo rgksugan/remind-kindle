@@ -7452,16 +7452,6 @@ Peopleware (Tom, DeMarco)
 People just don’t work very effectively when they’re locked into a no-win situation.
 ==========
 Peopleware (Tom, DeMarco)
-- Your Highlight on page 30 | location 550-551 | Added on Saturday, 6 November 2021 06:33:19
-
-child: If punishment is rare and your timing is impeccable so the justification is easily apparent, then maybe it can help. If you do it all the time, it’s just a sign that you’ve got problems of your own.
-==========
-Peopleware (Tom, DeMarco)
-- Your Highlight on page 30 | location 550-551 | Added on Saturday, 6 November 2021 06:33:30
-
-If punishment is rare and your timing is impeccable so the justification is easily apparent, then maybe it can help. If you do it all the time, it’s just a sign that you’ve got problems of your own.
-==========
-Peopleware (Tom, DeMarco)
 - Your Highlight on page 34 | location 618-620 | Added on Tuesday, 9 November 2021 07:29:18
 
 Your people will work better if you put them under a lot of pressure. Response: They won’t—they’ll just enjoy it less.
@@ -7477,19 +7467,9 @@ Peopleware (Tom, DeMarco)
 Staying late or arriving early or staying home to work in peace is a damning indictment of the office environment.
 ==========
 Peopleware (Tom, DeMarco)
-- Your Highlight on page 48 | location 821-824 | Added on Saturday, 13 November 2021 09:34:39
-
-If you participate in or manage a team of people who need to use their brains during the workday, then the workplace environment is your business. It isn’t enough to observe, “You never get anything done around here between 9 and 5,” and then turn your attention to something else. It’s dumb that people can’t get work done during normal work hours. It’s
-==========
-Peopleware (Tom, DeMarco)
 - Your Highlight on page 48 | location 821-824 | Added on Saturday, 13 November 2021 09:34:44
 
 If you participate in or manage a team of people who need to use their brains during the workday, then the workplace environment is your business. It isn’t enough to observe, “You never get anything done around here between 9 and 5,” and then turn your attention to something else. It’s dumb that people can’t get work done during normal work hours. It’s time to do something about it.
-==========
-Peopleware (Tom, DeMarco)
-- Your Highlight on page 58 | location 955-956 | Added on Sunday, 14 November 2021 07:49:32
-
-Anything you need to quantify can be measured in some way that is superior to not measuring it at all. Gilb’s
 ==========
 Peopleware (Tom, DeMarco)
 - Your Highlight on page 58 | location 955-956 | Added on Sunday, 14 November 2021 07:49:41
@@ -7517,19 +7497,9 @@ Peopleware (Tom, DeMarco)
 The final sign of a jelled team is the obvious enjoyment that people take in their work. Jelled teams just feel healthy. The interactions are easy and confident and warm.
 ==========
 Peopleware (Tom, DeMarco)
-- Your Highlight on page 144 | location 2152-2152 | Added on Saturday, 20 November 2021 18:43:50
-
-Edward deBono’s Lateral Thinking.
-==========
-Peopleware (Tom, DeMarco)
 - Your Highlight on page 145 | location 2192-2193 | Added on Saturday, 20 November 2021 18:48:42
 
 People who feel untrusted have little inclination to bond together into a cooperative team.
-==========
-Peopleware (Tom, DeMarco)
-- Your Highlight on page 157 | location 2372-2373 | Added on Sunday, 21 November 2021 06:59:19
-
-Out of the Crisis, W. Edwards Deming
 ==========
 Peopleware (Tom, DeMarco)
 - Your Highlight on page 160 | location 2431-2433 | Added on Sunday, 21 November 2021 08:13:06
@@ -7552,11 +7522,6 @@ Peopleware (Tom, DeMarco)
 You can’t always make it happen, but when a team does come together, it’s worth the cost. The work is fun; the people are energized. They roll over deadlines and milestones and look for more. They like themselves. They feel loyal to the team and to the environment that allows the team to exist.
 ==========
 Peopleware (Tom, DeMarco)
-- Your Highlight on page 183 | location 2794-2794 | Added on Monday, 22 November 2021 07:59:57
-
-Waltzing With Bears: Managing Risk on Software Projects
-==========
-Peopleware (Tom, DeMarco)
 - Your Highlight on page 187 | location 2861-2863 | Added on Monday, 22 November 2021 11:25:46
 
 Additionally, meetings give visibility, an essential factor to anyone who hopes to rise in big-company hierarchy. You don’t get noticed by listening thoughtfully, so anyone who’s there for visibility is likely to be a talker.
@@ -7576,25 +7541,10 @@ Peopleware (Tom, DeMarco)
 
 This effect alone, of departing only at project end, is worth more than all the process improvement your organization is likely to make over the next decade.
 ==========
-Peopleware (Tom, DeMarco)
-- Your Highlight on page 238 | location 3615-3617 | Added on Tuesday, 23 November 2021 17:52:10
-
-Sociology matters more than technology or even money. It’s supposed to be productive, satisfying fun to work. If it isn’t, then there’s nothing else worth
-==========
 The Almanack of Naval Ravikant: A Guide to Wealth and Happiness (Eric Jorgenson)
 - Your Highlight at location 202-204 | Added on Thursday, 16 December 2021 13:43:07
 
 Getting rich is about knowing what to do, who to do it with, and when to do it. It is much more about understanding than purely hard work. Yes, hard work matters, and you can’t skimp on it. But it has to be directed in the right way.
-==========
-The Almanack Of Naval Ravikant (Jorgenson, Eric)
-- Your Highlight on page 30 | location 162-164 | Added on Thursday, 16 December 2021 14:14:34
-
-Getting rich is about knowing what to do, who to do it with, and when to do it. It is much more about understanding than purely hard work. Yes, hard work matters, and you can’t skimp on it. But it has to be directed in the right way.
-==========
-The Almanack Of Naval Ravikant (Jorgenson, Eric)
-- Your Highlight on page 31 | location 173-175 | Added on Thursday, 16 December 2021 14:20:12
-
-Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy. Understand ethical wealth creation
 ==========
 The Almanack Of Naval Ravikant (Jorgenson, Eric)
 - Your Highlight on page 31 | location 173-174 | Added on Thursday, 16 December 2021 14:20:23
