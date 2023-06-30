@@ -5155,11 +5155,6 @@ A Philosophy of Software Design (Ousterhout, John)
 Unknown unknowns: The third symptom of complexity is that it is not obvious which pieces of code must be modified to complete a task, or what information a developer must have to carry out the task successfully.
 ==========
 A Philosophy of Software Design (Ousterhout, John)
-- Your Highlight on page 9 | location 398-398 | Added on Wednesday, 21 April 2021 07:04:13
-
-One of the most important goals of good design is for a system to be obvious. This
-==========
-A Philosophy of Software Design (Ousterhout, John)
 - Your Highlight on page 9 | location 398-398 | Added on Wednesday, 21 April 2021 07:04:19
 
 One of the most important goals of good design is for a system to be obvious.
@@ -6415,21 +6410,6 @@ Kaaval Kottam  (Tamil) (S.Venkatesan)
 தென் தமிழகத்தில் கிடைத்த அரிய பொருட்களையெல்லாம் சேகரித்து ஒரு நல்ல மியூசியம் உருவாக்கவேண்டுமென ஆங்கில அதிகாரி நேப்பியர் தொடர்ந்து முயற்சித்தார். அதன் விளைவாக கடந்த ஆண்டு புதுமண்டபத்தில் உருவாக்கப்பட்டதுதான் இந்த மியூசியம்.
 ==========
 Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 16282-16285 | Added on Friday, 3 September 2021 08:57:19
-
-பத்துக் கரங்களோடு ஆங்காரரூபிணியாய் நிற்கும் ருத்திரகாளியின் சிலை மியூசியத்திற்குள் நுழைந்ததும் வலதுபுற முதல் தூணிலே இருந்தது.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 16297-16299 | Added on Friday, 3 September 2021 08:58:16
-
-காலபைரவர் சிலைக்குக் கீழே இரும்பு பெட்டிகளில் வைக்கப்பட்டிருந்த ஆயுதங்களை ஜெனரல் உற்றுப் பார்த்தபடி நின்றார்.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 16598-16601 | Added on Saturday, 4 September 2021 04:40:57
-
-பெண் பிள்ளைகளின் காது வளர்க்க குறவன் காதைக் கிழிக்கும்பொழுதும், பையன்களை கவரடப்பு செய்ய நாவிதன் தோலை அறுக்கும் பொழுதும் கிழவனைத்தான் நினைப்பார்கள்.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
 - Your Highlight at location 16603-16609 | Added on Saturday, 4 September 2021 04:41:41
 
 பிள்ளை பிறந்தவுடன் கொம்பூதி வகையாறவுக்கு தலக்கட்டு வரிகொடுப்பதும் முதல்நாள் கன்னம் போடப்போகிறவன் பனமரத்தான் வகையறாவுக்கு காணிக்கை வரி கொடுப்பதும் ஊர் தோன்றிய காலம் முதல் இருந்துவரும் வழக்கம். ஊரில் யாராவது வாணம் தோண்டினாலோ, சுவர் வைத்தாலோ, விழுந்த சுவரை எடுத்து வைத்தாலோ ஒத்தப் பல்லன் வகையறாவுக்கு வரி கொடுக்கவேண்டும் என்பது அதன்பின் உருவானது.
@@ -6438,11 +6418,6 @@ Kaaval Kottam  (Tamil) (S.Venkatesan)
 - Your Highlight at location 16617-16623 | Added on Saturday, 4 September 2021 04:43:00
 
 கையில் வைத்திருக்கும் கருங்காலிக் கம்பிற்கு மூன்று பெயருண்டு. காவக்கம்பு, நிலையாள் கம்பு, மொண்டிக்கம்பு, காவல் பார்க்கப் போகிறவர்கள் கையில் வைத்திருப்பது காவக்கம்பு, கன்னம் அல்லாத பிற களவுக்கு போகும் போது கொத்தின் நிலையாள் கையில் வைத்திருப்பது நிலையாள் கம்பு. கன்னம் போடப்போகிற கொத்தின் நிலையாள் கையில் வைத்திருப்பது மொண்டிக்கம்பு.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 16920-16921 | Added on Saturday, 4 September 2021 10:26:41
-
-சிம்மக்கல் செக்கடிகளுக்கு எண்ணெய்வித்துக்கள் வந்துசேரவில்லை.
 ==========
 Kaaval Kottam  (Tamil) (S.Venkatesan)
 - Your Highlight at location 16927-16930 | Added on Saturday, 4 September 2021 10:27:28
