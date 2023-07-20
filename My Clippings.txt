@@ -470,16 +470,6 @@ The State and Revolution: Full Text of 1917 Edition (Illustrated) (Lenin, Vladim
 A standing army and police are the chief instruments of state power.
 ==========
 The State and Revolution: Full Text of 1917 Edition (Illustrated) (Lenin, Vladimir Ilyich)
-- Your Highlight on page 5 | location 3635-3669 | Added on Wednesday, 22 May 2019 06:10:36
-
-civilized society is split into antagonistic, and, moreover, irreconcilably antagonistic classes, whose “self acting” arming would lead to an armed struggle between them.
-==========
-The State and Revolution: Full Text of 1917 Edition (Illustrated) (Lenin, Vladimir Ilyich)
-- Your Note on page 5 | location 3668 | Added on Wednesday, 22 May 2019 06:11:15
-
-Karnataka vs tamilnadu
-==========
-The State and Revolution: Full Text of 1917 Edition (Illustrated) (Lenin, Vladimir Ilyich)
 - Your Highlight on page 5 | location 3669-3752 | Added on Wednesday, 22 May 2019 06:12:10
 
 A state arises, a special power is created, special bodies of armed men, and every revolution, by destroying the state apparatus, shows us the naked class struggle, clearly shows us how the ruling class strives to restore the special bodies of armed men which serve it, and how the oppressed class strives to create a new organization of this kind, capable of serving the exploited instead of the exploiters.
@@ -488,11 +478,6 @@ The State and Revolution: Full Text of 1917 Edition (Illustrated) (Lenin, Vladim
 - Your Highlight on page 6 | location 3915-3950 | Added on Wednesday, 22 May 2019 06:14:07
 
 It [the public power] grows stronger, however, in proportion as class antagonisms within the state become more acute, and as adjacent states become larger and more populous.
-==========
-The State and Revolution: Full Text of 1917 Edition (Illustrated) (Lenin, Vladimir Ilyich)
-- Your Note on page 6 | location 3949 | Added on Wednesday, 22 May 2019 06:15:04
-
-Hindu muslim tension and Pakistan 
 ==========
 The State and Revolution: Full Text of 1917 Edition (Illustrated) (Lenin, Vladimir Ilyich)
 - Your Highlight on page 7 | location 4301-4325 | Added on Wednesday, 22 May 2019 06:17:21
@@ -1163,11 +1148,6 @@ The Man-eating Leopard of Rudraprayag (Corbett, Jim)
 - Your Highlight at location 1988-1990 | Added on Wednesday, 4 September 2019 09:00:48
 
 Their boundless faith in their philosophy, a faith strong enough to move mountains and very soothing to depressed feelings, that no human beings and no animals can die before their appointed time, and that the man-eater’s time had not yet come, called for no explanation, and admitted of no argument.
-==========
-Pre-Suasion: A Revolutionary Way to Influence and Persuade (Cialdini, Robert B.)
-- Your Note on page 3 | location 154 | Added on Thursday, 5 September 2019 08:34:28
-
-Plan before you make a pitch.
 ==========
 Beer in the Snooker Club (Serpent's Tail Classics) (Ghali, Waguih)
 - Your Highlight on page 37 | location 410-411 | Added on Monday, 30 September 2019 05:53:29
@@ -5313,11 +5293,6 @@ Continuous Delivery (Addison-Wesley Signature Series (Fowler)) (Humble, Jez)
 - Your Highlight on page 25 | location 1202-1203 | Added on Tuesday, 25 May 2021 08:00:56
 
 Clearly, hardware cannot be kept in version control; but, particularly with the advent of cheap virtualization technology and tools like Puppet, the provisioning process can also be fully automated.
-==========
-Continuous Delivery (Addison-Wesley Signature Series (Fowler)) (Humble, Jez)
-- Your Note on page 25 | location 1203 | Added on Tuesday, 25 May 2021 08:01:08
-
-Wrong
 ==========
 Continuous Delivery (Addison-Wesley Signature Series (Fowler)) (Humble, Jez)
 - Your Highlight on page 26 | location 1224-1227 | Added on Tuesday, 25 May 2021 08:03:51
