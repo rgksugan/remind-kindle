@@ -6019,16 +6019,6 @@ Site Reliability Engineering (Murphy, Niall Richard)
 
 In the industry, automation is the term generally used for writing code to solve a wide variety of problems, although the motivations for writing this code, and the solutions themselves, are often quite different. More broadly, in this view, automation is “meta-software” — software to act on software.
 ==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 14982-14983 | Added on Wednesday, 1 September 2021 07:24:03
-
-சித்திரக்காரத் தெருவில் ஓவியம்போல இருள் நெளிந்து கிடந்தது.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 14979-14982 | Added on Wednesday, 1 September 2021 08:43:07
-
-உரல்கள் இடிபடும் ஓசை சதா கேட்டுக்கொண்டிருந்த சுண்ணாம்புக்காரத் தெருவின் ஓரத்தில் வெள்ளை நிறத்தில் தேங்கிக்கிடந்த நீரின் விழிப்பை எவ்வளவு முயன்றும் இருளால் அணைக்க முடியவில்லை.
-==========
 The Brain (Eagleman, David)
 - Your Highlight on page 10 | location 60-63 | Added on Wednesday, 1 September 2021 13:19:50
 
@@ -6040,44 +6030,14 @@ Kaaval Kottam  (Tamil) (S.Venkatesan)
 காவிரிக்கரை வரை களவுக்குப்போனவன் சாவுக்காகக் காத்து, பட்டியக்கல்லில் படுத்துக்கிடந்தாலும் தொங்கிக்கொண்டிருக்கும் கால்கள் காற்றில் நடந்தவாறே காவிரிக் கரைவரை போகும்.
 ==========
 Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 15058-15060 | Added on Thursday, 2 September 2021 06:59:10
-
-கபாலி மலையின் அடிவாரத்தில் இருந்த காட்டுப்பாதை இரவு முழுவதும் பாதங்கள் பட்டு அதிர்ந்தவண்ணம் இருந்தது.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 15073-15074 | Added on Thursday, 2 September 2021 07:01:34
-
-நேராக ராமாயணச் சாவடிக்கோ, செல்லத்தம்மன் கோயில் செக்கடிக்கோ போவார்கள்.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
 - Your Highlight at location 15089-15094 | Added on Thursday, 2 September 2021 07:04:25
 
 தென்கடைசியில் இருந்த மேங்காட்டுப் பொட்டலுக்குள் வந்து முடிந்தது மேல ஆவணி மூல வீதி. அடர்ந்த மரங்களுக்குள் பறவைகளும் அயர்ந்து உறங்கின. மேங்காட்டுப் பொட்டலுக்குள் குடிகொண்டிருந்த கரும் இருட்டுக்குள்ளிருந்து மாடுகளின் மணிச்சந்தம் துல்லியமாய் கேட்டுக்கொண்டிருந்தது.
 ==========
 Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 15190-15191 | Added on Thursday, 2 September 2021 07:10:23
-
-பெருமாள் கோவில் தெப்பக்குளத்தின் வடக்குச் சுவரில் நீண்ட நேரம் உட்கார்ந்திருந்தான் கட்டையன்.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
 - Your Highlight at location 15205-15207 | Added on Thursday, 2 September 2021 07:11:41
 
 மேலமாரெட் வீதி, மேலப்பெருமாள் மேஸ்திரி வீதி, மேலும் அங்குள்ள குறுக்குச் சந்துகள் முழுவதும் கட்டையனுடைய காவல்.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 15332-15333 | Added on Thursday, 2 September 2021 07:21:12
-
-கருப்பு கோயிலில் இருந்து புறப்பட்டு ராமாயணச் சாவடிக்கு வருகிறவழியில் வெளிவீதி மண்ணை மிதிப்பதோடு சரி.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 15358-15359 | Added on Thursday, 2 September 2021 07:24:02
-
-அதற்கு மைனாக்குளம் என்றே பெயரும் வந்துவிட்டது.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 15381-15383 | Added on Thursday, 2 September 2021 07:26:32
-
-விளக்குத்தூணின் மங்கிய வெளிச்சத்தைக் கடந்து வலதுபுறமிருந்த மாதாகோயிலைப் பார்த்த வண்ணம் ஆலமரத்தை நோக்கி நடந்து வந்துகொண்டிருந்தான் மொக்கச்சாமி.
 ==========
 Kaaval Kottam  (Tamil) (S.Venkatesan)
 - Your Highlight at location 15468-15472 | Added on Thursday, 2 September 2021 07:33:28
