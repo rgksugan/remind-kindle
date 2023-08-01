@@ -5005,11 +5005,6 @@ A Philosophy of Software Design (Ousterhout, John)
 Overall, the best way to reduce bugs is to make software simpler.
 ==========
 A Philosophy of Software Design (Ousterhout, John)
-- Your Highlight on page 90 | location 1827-1827 | Added on Wednesday, 28 April 2021 09:00:41
-
-Special cases of any form make code harder to understand and increase the likelihood of bugs. This
-==========
-A Philosophy of Software Design (Ousterhout, John)
 - Your Highlight on page 90 | location 1827-1827 | Added on Wednesday, 28 April 2021 09:00:46
 
 Special cases of any form make code harder to understand and increase the likelihood of bugs.
@@ -5020,14 +5015,9 @@ A Philosophy of Software Design (Ousterhout, John)
 The design of large software systems falls in this category: no-one is good enough to get it right with their first try.
 ==========
 A Philosophy of Software Design (Ousterhout, John)
-- Your Highlight on page 97 | location 1921-1922 | Added on Thursday, 29 April 2021 08:19:03
-
-If users must read the code of a method in order to use it, then there is no abstraction: all
-==========
-A Philosophy of Software Design (Ousterhout, John)
 - Your Highlight on page 97 | location 1921-1922 | Added on Thursday, 29 April 2021 08:19:09
 
-If users must read the code of a method in order to use it, then there is no abstraction:
+If users must read the code of a method in order to use it, then there is no abstraction.
 ==========
 A Philosophy of Software Design (Ousterhout, John)
 - Your Highlight on page 100 | location 1964-1965 | Added on Thursday, 29 April 2021 08:25:11
