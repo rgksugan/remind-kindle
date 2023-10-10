@@ -1429,11 +1429,6 @@ The Mom Test: How to talk to customers & learn if your business is a good idea w
 
 Every time you talk to someone, you should be asking at least one question which has the potential to destroy your currently imagined business.
 ==========
-Patriotism (Yukio Mishima;Geoffrey W. Sargent)
-- Your Highlight on page 6 | location 71-72 | Added on Monday, 20 January 2020 21:15:30
-
-She felt as if her body could melt away with ease and be transformed to the merest fraction of her husband’s thought.
-==========
 The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you (Fitzpatrick, Rob)
 - Your Highlight on page 58 | location 772-773 | Added on Tuesday, 21 January 2020 06:25:09
 
@@ -1488,11 +1483,6 @@ Patriotism (Yukio Mishima;Geoffrey W. Sargent)
 - Your Highlight on page 26 | location 338-339 | Added on Tuesday, 21 January 2020 07:26:03
 
 Ever since her marriage her husband’s existence had been her own existence, and every breath of his had been a breath drawn by herself.
-==========
-Patriotism (Yukio Mishima;Geoffrey W. Sargent)
-- Your Highlight on page 29 | location 380-381 | Added on Tuesday, 21 January 2020 07:36:57
-
-This was no longer make-up to please her husband. It was make-up for the world which she would leave behind, and there was a touch of the magnificent and the spectacular in her brushwork.
 ==========
 Nine Lives (Dalrymple, William)
 - Your Highlight on page 29 | location 717-721 | Added on Tuesday, 21 January 2020 09:17:36
@@ -2392,7 +2382,7 @@ The odd American idea that giving money to political campaigns is free speech me
 On Tyranny (Snyder, Timothy)
 - Your Highlight on page 43 | location 257-258 | Added on Friday, 24 April 2020 15:52:20
 
-MOST GOVERNMENTS, MOST of the time, seek to monopolize violence.
+Most Governments, most of the time, seek to monopolize violence.
 ==========
 On Tyranny (Snyder, Timothy)
 - Your Highlight on page 43 | location 259-260 | Added on Friday, 24 April 2020 18:10:12
@@ -3310,11 +3300,6 @@ Patterns of Enterprise Application Architecture (Addison-Wesley Signature Series
 The primary responsibilities of the presentation layer are to display information to the user and to interpret commands from the user into actions upon the domain and data source.
 ==========
 Patterns of Enterprise Application Architecture (Addison-Wesley Signature Series (Fowler)) (Fowler, Martin)
-- Your Highlight on page 21 | location 741-743 | Added on Friday, 3 July 2020 00:56:40
-
-This is the logic behind Alistair Cockburn’s Hexagonal Architecture pattern [wiki], which visualizes any system as a core surrounded by interfaces to external systems. In Hexagonal Architecture everything external is fundamentally an outside interface, and thus it’s a symmetrical view rather than my asymmetric layering scheme.
-==========
-Patterns of Enterprise Application Architecture (Addison-Wesley Signature Series (Fowler)) (Fowler, Martin)
 - Your Highlight on page 21 | location 745-747 | Added on Friday, 3 July 2020 07:13:16
 
 Presentation is an external interface for a service your system offers to someone else, whether it be a complex human or a simple remote program. Data source is the interface to things that are providing a service to you.
@@ -3885,16 +3870,6 @@ Simply Fly : A Deccan Odyssey (Gopinath,G R)
 I realized that effective management and administration of resources and people are the principle criteria of a good army.
 ==========
 Simply Fly : A Deccan Odyssey (Gopinath,G R)
-- Your Highlight on page 37 | location 480-482 | Added on Friday, 23 October 2020 05:38:51
-
-I vividly remember the eve of our move into East Pakistan territory. It was a sultry October night. The local civilian authorities had organized a farewell dinner for the armed forces, attended by the heads of police and the civil services, my CO, people from the intelligence services.
-==========
-Simply Fly : A Deccan Odyssey (Gopinath,G R)
-- Your Highlight on page 38 | location 491-493 | Added on Friday, 23 October 2020 05:41:52
-
-There was another officer from my unit to whom I was very close. He was hit by shrapnel from an exploding shell which pierced his helmet and opened up his skull. Fortunately he survived. Maj. Nanjappa was decorated for his role in the war and received the Vir Chakra for his gallantry.
-==========
-Simply Fly : A Deccan Odyssey (Gopinath,G R)
 - Your Highlight on page 39 | location 507-511 | Added on Friday, 23 October 2020 05:44:44
 
 The responsibilities shouldered by a GPO are immense. A regiment has three batteries, each with six guns. In any war, the artillery can wreak great devastation upon the enemy. Artillery gun positions are sometimes isolated and are vulnerable to enemy attacks. During war, there is round-the-clock activity. Even eating and sleeping are activities undertaken in a state of high alert. During prolonged periods of engagement with the enemy and notwithstanding the lack of proper meals or sound sleep, there is an inexplicable kind of adrenaline rush.
@@ -3903,16 +3878,6 @@ Simply Fly : A Deccan Odyssey (Gopinath,G R)
 - Your Highlight on page 41 | location 534-535 | Added on Friday, 23 October 2020 05:48:43
 
 It is not that we were not scared. Courage is the counterpoint of fear. Courage appears when in war or business, one is indeed scared.
-==========
-Simply Fly : A Deccan Odyssey (Gopinath,G R)
-- Your Highlight on page 41 | location 547-549 | Added on Friday, 23 October 2020 05:51:02
-
-We then moved out of what is now Bangladesh. My unit was moved to Sikkim. People cheered us all along the road from Dinajpur to Rangpur to Sikkim. They were celebrating on the streets, and raised a victory cry, ‘Indira Gandhi zindabad,’ ‘Indian Army zindabad’, ‘Manekshaw zindabad
-==========
-Simply Fly : A Deccan Odyssey (Gopinath,G R)
-- Your Highlight on page 42 | location 552-554 | Added on Friday, 23 October 2020 05:51:57
-
-After the war, I was posted in Sikkim for a year and a half. This was the beginning of a period of deep spiritual awakening within me. Sikkim was a kingdom and not yet a part of India. It was however an Indian protectorate, with India looking after its economic and foreign affairs, its army, and its infrastructural needs.
 ==========
 Simply Fly : A Deccan Odyssey (Gopinath,G R)
 - Your Highlight on page 42 | location 554-557 | Added on Friday, 23 October 2020 05:52:44
@@ -5470,11 +5435,6 @@ HTTPS is computationally expensive, and large sites often use specialized hardwa
 Breaking the rules. Doing whatever you want. Those concepts are all admired by us. Deep down we all want to be rebels. Discipline. Consistency. Persistency. Those concepts are not sexy at all, but they are the key to playing infinite games.
 ==========
 Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 12822-12824 | Added on Sunday, 15 August 2021 07:44:10
-
-வேளார்சேரியில் இருந்து அழைத்துவரப்பட்ட இரண்டு குயவர்களுக்கும் மேற்குப் பகுதியில் தனித்தனியாக இரண்டு குடிசைகள் போடப்பட்டிருந்தன.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
 - Your Highlight at location 12828-12837 | Added on Sunday, 15 August 2021 07:44:46
 
 பனையூரிலிருந்து அழைத்து வரப்பட்டிருந்த நாவிதர்களுக்கு சில வாரங்களுக்குப் பிறகுதான் கோட்டையின் கிழக்குப் பகுதி காட்டை ஒட்டி குடிசை போட்டுத் தரப்பட்டது. அங்கிருந்தபடியே அவர்களின் பணி நடைபெற்றது. எலும்பு முறிவு, எலும்பு விலகல், சதைப்பிடிப்பு என பணியிடத்தில் நிகழும் விபத்துகளுக்கு மருத்துவம் செய்யவே குயவர்கள் அழைத்துவரப்பட்டிருந்தனர். ஆலமரத்தின் கீழ் முறிந்த எலும்புக்காக கட்டுப்போடப்பட்டவர்கள் வரிசையாகக் கிடந்தனர். தீராப்புண்கள்,
@@ -5911,21 +5871,6 @@ Let's Talk Money (Halan, Monika)
 
 Be careful of firms that give data on complaints as a percentage of policies sold. What is relevant is how many people, how many made a claim, then how many went on to complain. This number should be low in the policy you finally choose.
 ==========
-Nilam Poothu Malarntha Naal: நிலம் பூத்து மலர்ந்த நாள் (Tamil Edition) (Kuroor, Manoj)
-- Your Highlight at location 464-472 | Added on Thursday, 16 September 2021 10:03:57
-
-வேட்டையாடும் எயினரும், குறவரும், நிலம் உழும் உழவரும், ஆநிரை மேய்க்கும் ஆயரும், கொள்ளையர்கள் எனினும் போராளிகளான மறவரும், உப்பு விளைவிக்கும் உமணரும், மீன்பிடிக்கும் பரதவரும் பிறரும் அந்தந்த இடங்களில் அவர்களின் தொழில்களில் ஈடுபட்டிருக்கின்றனர். பாடகர்களான பாணரும், ஆடல் வல்லோரான கூத்தரும், வெறியாடும் வேலன்களும், பட்டு நெய்யும் சாலியரும், யாழையும் பறையையும் உருவாக்கும் குயிலுவரும், வேள்வி நடத்தும் அந்தணருமென மேலும் பல இனத்தவரும் அங்கேயிருந்தனர்
-==========
-Nilam Poothu Malarntha Naal: நிலம் பூத்து மலர்ந்த நாள் (Tamil Edition) (Kuroor, Manoj)
-- Your Highlight at location 537-540 | Added on Friday, 17 September 2021 08:05:20
-
-பறித்தெறியப்பட்ட வேர்களைப் பற்றிச் சிந்தித்தால், பச்சையங்களால் படர முடியாது. பறந்தடையும் நேரத்தை அஞ்சினால், கரையான் புற்றின் ஈசல்களுக்கு இறக்கை முளைக்காது.
-==========
-Nilam Poothu Malarntha Naal: நிலம் பூத்து மலர்ந்த நாள் (Tamil Edition) (Kuroor, Manoj)
-- Your Highlight at location 706-711 | Added on Tuesday, 21 September 2021 06:46:08
-
-நான் இருபத்தோரு நரம்புகளுள்ள பேரியாழை எடுத்து முன்னால் வைத்தேன். அலங்கரித்து முடியாத ஒரு பெண்ணுடல் போலிருந்தது அது. என்றேனும் ஒருநாள் அது பெண்ணாக மாறுமெனத் தோன்ற, நான் முதலிலிருந்தே ‘மல்லிகா’ என்ற பெயரிலேயே அதை அழைத் திருந்தேன். ஒரு பெண்மயிலின் பேரழகுடன் அது தயாராகியிருந்தது.
-==========
 Site Reliability Engineering (Murphy, Niall Richard)
 - Your Highlight on page 472 | location 8285-8288 | Added on Tuesday, 21 September 2021 22:16:12
 
@@ -5954,27 +5899,12 @@ Such alerts are frequently triaged as transient, but still distract your teammat
 Nilam Poothu Malarntha Naal: நிலம் பூத்து மலர்ந்த நாள் (Tamil Edition) (Kuroor, Manoj)
 - Your Highlight at location 842-846 | Added on Wednesday, 22 September 2021 07:33:40
 
-கண் திறக்காத குட்டிகளின் இளம்வாய்கள் தாயின் முலைகளில் முட்டித் தேடிய போதும் அவை வற்றி வறண்டிருந்தன. எங்களின் வறுமை வளர்ப்பு நாயிடமும் ஒட்டியிருந்தது. உள்ளத்தின் கனிவை முலைகளுக்குக் கடத்த முடியாமல் அது முனகியபடி  கிடந்தது.
+கண் திறக்காத குட்டிகளின் இளம்வாய்கள் தாயின் முலைகளில் முட்டித் தேடிய போதும் அவை வற்றி வறண்டிருந்தன. எங்களின் வறுமை வளர்ப்பு நாயிடமும் ஒட்டியிருந்தது. உள்ளத்தின் கனிவை முலைகளுக்குக் கடத்த முடியாமல் அது முனகியபடி கிடந்தது.
 ==========
 Nilam Poothu Malarntha Naal: நிலம் பூத்து மலர்ந்த நாள் (Tamil Edition) (Kuroor, Manoj)
 - Your Highlight at location 968-970 | Added on Wednesday, 22 September 2021 08:11:08
 
 கொற்றவையும், கொல்லிமலைப் பாவையும், கூடலின் கண்ணகியும்தான் அவள் நினைவுகளின் தெய்வ அணங்குகள்.
-==========
-Nilam Poothu Malarntha Naal: நிலம் பூத்து மலர்ந்த நாள் (Tamil Edition) (Kuroor, Manoj)
-- Your Highlight at location 1962-1963 | Added on Saturday, 25 September 2021 22:24:45
-
-வேள் பாரியைப் பார்ப்பதற்காகப் பறம்புமலைக்குப் போகிறோம்.
-==========
-Nilam Poothu Malarntha Naal: நிலம் பூத்து மலர்ந்த நாள் (Tamil Edition) (Kuroor, Manoj)
-- Your Highlight at location 2431-2432 | Added on Sunday, 26 September 2021 17:43:39
-
-கையில் பணமிருந்ததால் சற்று கௌரவத்தோடுதான் நாங்கள் நடந்தோம்.
-==========
-Nilam Poothu Malarntha Naal: நிலம் பூத்து மலர்ந்த நாள் (Tamil Edition) (Kuroor, Manoj)
-- Your Highlight at location 2759-2761 | Added on Sunday, 26 September 2021 20:05:01
-
-கபிலர் பாடிய குறிஞ்சிப்பாட்டு அது. மரங்களும் பறவைகளும் பூக்களும் நிறைந்த பறம்பு மலையையும் அங்கு வாழும் மக்கள் வாழ்வையும் நம் கண்முன் காண முடிந்தது.
 ==========
 Nilam Poothu Malarntha Naal: நிலம் பூத்து மலர்ந்த நாள் (Tamil Edition) (Kuroor, Manoj)
 - Your Highlight at location 2974-2976 | Added on Monday, 27 September 2021 05:41:25
@@ -5992,19 +5922,9 @@ Nilam Poothu Malarntha Naal: நிலம் பூத்து மலர்ந�
 அனைவரும் ஒன்றாகவே இருப்போம் என்று நினைத்திருப்பவர்க்கெல்லாம் நாம் தனித்தனியானவர்களே என்பதை உணர உற்றாரின் மரணமே தேவைப்படுகிறது.
 ==========
 Nilam Poothu Malarntha Naal: நிலம் பூத்து மலர்ந்த நாள் (Tamil Edition) (Kuroor, Manoj)
-- Your Highlight at location 3384-3385 | Added on Monday, 27 September 2021 06:19:28
-
-புல் வேய்ந்த சிறு குடிசைகள் வரிசையாக நிற்கும் சேரியை நாங்கள் அடைந்தோம்.
-==========
-Nilam Poothu Malarntha Naal: நிலம் பூத்து மலர்ந்த நாள் (Tamil Edition) (Kuroor, Manoj)
 - Your Highlight at location 4354-4357 | Added on Thursday, 30 September 2021 07:29:46
 
 தலையை நிமிர்த்தியபோது அவன் என் உதட்டைத் தீண்டினான். உடலோடு உடல் நன்றாக ஒட்டிக்கொண்டது. கன்னத்திலும் கழுத்திலும் பதியும் உதடுகளையும், மார்பில் பரவும் விரல்களையும் விலக்கிவிட வேண்டுமென்று எனக்குத் தோன்றவில்லை.
-==========
-Nilam Poothu Malarntha Naal: நிலம் பூத்து மலர்ந்த நாள் (Tamil Edition) (Kuroor, Manoj)
-- Your Highlight at location 6496-6498 | Added on Thursday, 7 October 2021 14:46:21
-
-அறிவைப் பெற்றவனுக்கு தன் நாடும் அயல் நாடுகளும் தன்னுடையதாகவே ஆகிவிடுமென்று பல நூல்கள் வழியாக அறிந்திருக்கிறேன்.
 ==========
 தோட்டியின் மகன் (Thottiyin Magan) (Modern Indian Classic Novel) (Tamil Edition) (Pillai, Thakazhi Sivasankara)
 - Your Highlight at location 2147-2157 | Added on Saturday, 16 October 2021 06:25:49
@@ -6993,7 +6913,7 @@ These examples illustrate that what you should focus on depends on your financia
 Just Keep Buying (Maggiulli, Nick)
 - Your Highlight on page 13 | location 131-132 | Added on Tuesday, 4 October 2022 22:56:42
 
-More simply: saving is for the poor and investing is for the rich.
+Saving is for the poor and investing is for the rich.
 ==========
 Just Keep Buying (Maggiulli, Nick)
 - Your Highlight on page 14 | location 144-146 | Added on Tuesday, 4 October 2022 22:58:19
