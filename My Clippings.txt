@@ -5270,16 +5270,6 @@ HTTPS is computationally expensive, and large sites often use specialized hardwa
 Breaking the rules. Doing whatever you want. Those concepts are all admired by us. Deep down we all want to be rebels. Discipline. Consistency. Persistency. Those concepts are not sexy at all, but they are the key to playing infinite games.
 ==========
 Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 12828-12837 | Added on Sunday, 15 August 2021 07:44:46
-
-பனையூரிலிருந்து அழைத்து வரப்பட்டிருந்த நாவிதர்களுக்கு சில வாரங்களுக்குப் பிறகுதான் கோட்டையின் கிழக்குப் பகுதி காட்டை ஒட்டி குடிசை போட்டுத் தரப்பட்டது. அங்கிருந்தபடியே அவர்களின் பணி நடைபெற்றது. எலும்பு முறிவு, எலும்பு விலகல், சதைப்பிடிப்பு என பணியிடத்தில் நிகழும் விபத்துகளுக்கு மருத்துவம் செய்யவே குயவர்கள் அழைத்துவரப்பட்டிருந்தனர். ஆலமரத்தின் கீழ் முறிந்த எலும்புக்காக கட்டுப்போடப்பட்டவர்கள் வரிசையாகக் கிடந்தனர். தீராப்புண்கள்,
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 12828-12831 | Added on Sunday, 15 August 2021 07:45:12
-
-பனையூரிலிருந்து அழைத்து வரப்பட்டிருந்த நாவிதர்களுக்கு சில வாரங்களுக்குப் பிறகுதான் கோட்டையின் கிழக்குப் பகுதி காட்டை ஒட்டி குடிசை போட்டுத் தரப்பட்டது.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
 - Your Highlight at location 12852-12854 | Added on Sunday, 15 August 2021 07:47:01
 
 ஒவ்வொரு அதிகாலையிலும் சூரியனின் ஒளி கோட்டை அகற்றப்பட்ட புதிய நிலத்தை ஆர்வத்தோடு பார்த்தது.
@@ -6265,11 +6255,6 @@ Grokking Algorithms: An illustrated guide for programmers and other curious peop
 - Your Highlight at location 281-282 | Added on Friday, 28 January 2022 23:10:23
 
 It’s hard to overstate hash tables’ usefulness. When I want to solve a problem, the two plans of attack I start with are “Can I use a hash table?” and “Can I model this as a graph?”
-==========
-Designing Data-Intensive Applications (Kleppmann, Martin)
-- Your Highlight on page 256 | location 5007-5012 | Added on Saturday, 29 January 2022 21:23:49
-
-In this read-scaling architecture, you can increase the capacity for serving read-only requests simply by adding more followers. However, this approach only realistically works with asynchronous replication—if you tried to synchronously replicate to all followers, a single node failure or network outage would make the entire system unavailable for writing. And the more nodes you have, the likelier it is that one will be down, so a fully synchronous configuration would be very unreliable.
 ==========
 Designing Data-Intensive Applications (Kleppmann, Martin)
 - Your Highlight on page 257 | location 5014-5019 | Added on Saturday, 29 January 2022 21:24:25
