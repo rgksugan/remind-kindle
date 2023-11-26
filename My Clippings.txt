@@ -3995,11 +3995,6 @@ Press was not accessible for common men.
 பரதேவதையின்கணவர் ஊரல்வாய்மொழி என்ற ஊரினர். இவளது பெற்றோர் ஊர் புவியூர். இவளது முதல்கணவன் எமலோக புருடன். இவர் கொடிய இருமல் நோயால் பாதிக்கப்பட்டு இறந்த பின்பு முத்துக்குட்டி முறைப்பெண் பரதேவதையை மணந்தார். இந்தத் திருமணம் 1826இல் நடந்திருக்கலாம்.
 ==========
 அகிலத்திரட்டு அம்மானை (Akilathirattu Ammanai) (Spiritualism) (Tamil Edition) (A K Perumal)
-- Your Highlight at location 405-413 | Added on Saturday, 12 December 2020 06:39:55
-
-அய்யா திருமாலிடம் அருள்பெற்றது மலையாள ஆண்டு 1008 மாசி மாதம் இருபதாம் நாளில் (கி.பி. 1833 மார்ச் 3 அல்லது 4) என்று அகிலம் கூறும். அய்யாவின் பக்தர்கள் இந்த தினத்தையே அவதார நாளாகக் கொண்டாடுகிறார்கள். திருச்செந்தூர் கடலில் மூன்று நாட்கள் இவர் இருந்த நிகழ்ச்சியை அகிலம் புராணத்தன்மையுடன் காட்டுகிறது. ஞானம் பெற்ற பின்பு இவர் வைகுண்டர் என்னும் பெயரைப் பெற்றது மட்டுமல்ல திருமாலின் அவதாரமாக ஆனார் என்கிறது அகிலம்.
-==========
-அகிலத்திரட்டு அம்மானை (Akilathirattu Ammanai) (Spiritualism) (Tamil Edition) (A K Perumal)
 - Your Highlight at location 428-434 | Added on Saturday, 12 December 2020 06:48:58
 
 வெள்ளிக்கிழமை சூரியன் உதிக்கும் வேளையில் மூல நட்சத்திரமும் பஞ்சமி திதியும் கூடிய நேரத்தில் சாமிதோப்பு கிராமத்திற்கு அய்யா வந்தார் என அகிலம் கூறும். இந்த ஊரில் தவம் இருந்தார். தவக்காலத்தில் பச்சரிசி, தேங்காய், சிறுபயிறு, மிளகு வத்தல் ஆகியன கலந்த கலவை உணவை மட்டும் உண்டு வாழ்ந்தார்.
@@ -4655,11 +4650,6 @@ You Don't Know JS Yet: Get Started (Simpson, Kyle)
 JS is a compiled language, meaning the tools (including the JS engine) process and verify a program (reporting any errors!) before it executes.
 ==========
 You Don't Know JS Yet: Get Started (Simpson, Kyle)
-- Your Highlight on page 27 | location 322-322 | Added on Wednesday, 5 May 2021 08:53:02
-
-HTML and CSS, by contrast, are forwards-compatible but not backwards-compatible.
-==========
-You Don't Know JS Yet: Get Started (Simpson, Kyle)
 - Your Highlight on page 32 | location 415-418 | Added on Wednesday, 5 May 2021 08:53:32
 
 Transpilation and polyfilling are two highly effective techniques for addressing that gap between code that uses the latest stable features in the language and the old environments a site or application needs to still support. Since JS isn’t going to stop improving, the gap will never go away. Both techniques should be embraced as a standard part of every JS project’s production chain going forward.
@@ -4930,16 +4920,6 @@ Kaaval Kottam  (Tamil) (S.Venkatesan)
 “குமாரகம்பணா! விலகி நில். விஜயநகரப் போர் இதுவல்ல. இது என் யுத்தம். கம்பிளியின் யுத்தம். இதற்காகவே நான் பிறந்தேன். இந்த நாளுக்காவே காத்திருந்தேன். இதற்காகத்தான் வாளெடுத்தேன். ஆயிரமாயிரம் கொல்லவாருகளை இழந்தாலும் அந்த ரத்தத்தில் நடந்துபோய் இன்றிரவே பலி எடுப்பேன். ஆனைகுந்தியின் பகை முடிப்பேன்
 ==========
 Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 639-641 | Added on Tuesday, 13 July 2021 09:02:36
-
-பசுமலை அடிவாரத்தில் வடக்கே கங்கையம்மன் பூஜைக்கான ஏற்பாடுகள் அவசர கதியில் நடந்தன.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 1050-1053 | Added on Tuesday, 13 July 2021 09:32:04
-
-நல்லவேளையாக முகம்மதியர்கள் கோயிலைப் பூட்டியதோடு விட்டுவிட்டார்கள். சமணக் கோயிலுக்குள் சைவர்கள் செய்ததைப்போல உள்நுழைந்து எதையும் சிதைக்கவில்லை.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
 - Your Highlight at location 1183-1185 | Added on Tuesday, 13 July 2021 09:41:55
 
 ‘அரசுகள் எப்படி உருவாகின்றன?’ ‘உறுதியும் கனவும் கொண்ட ஒருவன் பின்னால் அவன் குலம் திரளும்போது.’
@@ -4968,16 +4948,6 @@ Kaaval Kottam  (Tamil) (S.Venkatesan)
 - Your Highlight at location 3338-3341 | Added on Friday, 16 July 2021 17:50:07
 
 சிற்பிகள் வந்து சேர்ந்த, பிறகு ஒரு வாரம் திருப்பரங்குன்றம், அமணமலை, நாகமலை, அழகர்கோயில், யானைமலை, திருப்புவனம், பெருங்குடிமேடு, வைகை நதிப்பக்கம் எல்லாம் அலைந்தனர்.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 3399-3403 | Added on Friday, 16 July 2021 17:56:20
-
-எர்ர திம்மனை வடக்கு நோக்கி மண்டியிட்டு அமரச் சொன்னார்கள். ஐந்து உடுக்கைகளும் அவனைச் சுற்றி ஒலியெழுப்ப, மந்திர உச்சாடனம் உச்ச கதியடைந்தது. இடுப்பிலிருந்து குறுவாளை சடாரென உருவிய திம்மன் தன் கழுத்தை அறுத்துவிட்டு முன்னே சரிந்தான்.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 3383-3385 | Added on Friday, 16 July 2021 17:56:40
-
-வடக்கு வாசல் வாணக் குழியில் இறங்கியவர்கள் அந்த வெக்கிலிய இளைஞனை நடுவே நிறுத்தினர். பதினேழே வயதான அவன் பெயர் எர்ரதிம்மன்.
 ==========
 Kaaval Kottam  (Tamil) (S.Venkatesan)
 - Your Highlight at location 3367-3372 | Added on Friday, 16 July 2021 17:56:53
@@ -5363,31 +5333,6 @@ Kaaval Kottam  (Tamil) (S.Venkatesan)
 - Your Highlight at location 16603-16609 | Added on Saturday, 4 September 2021 04:41:41
 
 பிள்ளை பிறந்தவுடன் கொம்பூதி வகையாறவுக்கு தலக்கட்டு வரிகொடுப்பதும் முதல்நாள் கன்னம் போடப்போகிறவன் பனமரத்தான் வகையறாவுக்கு காணிக்கை வரி கொடுப்பதும் ஊர் தோன்றிய காலம் முதல் இருந்துவரும் வழக்கம். ஊரில் யாராவது வாணம் தோண்டினாலோ, சுவர் வைத்தாலோ, விழுந்த சுவரை எடுத்து வைத்தாலோ ஒத்தப் பல்லன் வகையறாவுக்கு வரி கொடுக்கவேண்டும் என்பது அதன்பின் உருவானது.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 16617-16623 | Added on Saturday, 4 September 2021 04:43:00
-
-கையில் வைத்திருக்கும் கருங்காலிக் கம்பிற்கு மூன்று பெயருண்டு. காவக்கம்பு, நிலையாள் கம்பு, மொண்டிக்கம்பு, காவல் பார்க்கப் போகிறவர்கள் கையில் வைத்திருப்பது காவக்கம்பு, கன்னம் அல்லாத பிற களவுக்கு போகும் போது கொத்தின் நிலையாள் கையில் வைத்திருப்பது நிலையாள் கம்பு. கன்னம் போடப்போகிற கொத்தின் நிலையாள் கையில் வைத்திருப்பது மொண்டிக்கம்பு.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 16927-16930 | Added on Saturday, 4 September 2021 10:27:28
-
-கோரிபாளையத்தில் நிறைய சன்னல்களை வைத்துக் கட்டியிருந்த இஸ்லாமியர்களின் வீடுகளில்தான் பகலில் வெளிச்சமும் இரவில் காற்றும் நடுவீடு வரை வந்தது.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 16986-16987 | Added on Saturday, 4 September 2021 10:31:16
-
-ராமநாதபுரம் வரை செல்லும் மங்கம்மாள் சாலை செம்பூருக்கு மேற்கேதான் அமைந்திருந்தது.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 17249-17252 | Added on Sunday, 5 September 2021 06:16:06
-
-மரங்கள் செழித்து வளர்ந்திருந்த சிறு குன்றான பசுமலையின் தென்புற அடிவாரத்தில்தான் அமெரிக்கன் மிஷனரிமார்கள் பணியாற்றி வருகின்றனர். ஒரு
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 17249-17254 | Added on Sunday, 5 September 2021 06:16:21
-
-மரங்கள் செழித்து வளர்ந்திருந்த சிறு குன்றான பசுமலையின் தென்புற அடிவாரத்தில்தான் அமெரிக்கன் மிஷனரிமார்கள் பணியாற்றி வருகின்றனர். ஒரு தேவாலயமும், பள்ளிக்கூடம் ஒன்றும் கட்டியிருந்தனர். இது தவிர கூரைகள் வேயப்பட்ட சிறு சிறு வீடுகள் நிறைய இருந்தன.
 ==========
 Kaaval Kottam  (Tamil) (S.Venkatesan)
 - Your Highlight at location 17249-17260 | Added on Sunday, 5 September 2021 06:17:09
