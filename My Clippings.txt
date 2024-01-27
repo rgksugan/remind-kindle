@@ -4267,7 +4267,7 @@ Splitting up a method only makes sense if it results in cleaner abstractions, ov
 A Philosophy of Software Design (Ousterhout, John)
 - Your Highlight on page 72 | location 1532-1533 | Added on Wednesday, 28 April 2021 07:47:23
 
-if two pieces of code are physically separated, but each can only be understood by looking at the other, that is a red flag.
+If two pieces of code are physically separated, but each can only be understood by looking at the other, that is a red flag.
 ==========
 A Philosophy of Software Design (Ousterhout, John)
 - Your Highlight on page 74 | location 1534-1535 | Added on Wednesday, 28 April 2021 07:47:41
@@ -4528,11 +4528,6 @@ Cycle time is the amount of elapsed time that a work item spends as work-in-prog
 - Your Highlight at location 6929-6932 | Added on Wednesday, 9 June 2021 08:46:07
 
 பிராமணர்கள் ஆனதால் மனுஸ்மிருதி அதற்குத் தடையாகயிருந்தது. பண்டாரங்களின் நெற்றியில் வாள்முனையால் நாய் உருவம் வரையப்பட்டு அவர்கள் நாடு கடத்தப்பட்டனர்.
-==========
-சாய்வு நாற்காலி (Saivu Naarkaali) (Novel) (Tamil Edition) (Meeran, Thoppil Mohamed)
-- Your Highlight at location 6948-6951 | Added on Wednesday, 9 June 2021 08:47:23
-
-நான் இறந்துபோயிருந்தால் மக்காவுக்குப்போன சேரமான் பெருமாள் அம்மாவன் நிலை நாட்டிய இந்தத் திருவாங்கூர் ராஜவம்சத்தில் மருமக்க வழி அஸ்தமிச்சு போயிருக்கும்.
 ==========
 சாய்வு நாற்காலி (Saivu Naarkaali) (Novel) (Tamil Edition) (Meeran, Thoppil Mohamed)
 - Your Highlight at location 6963-6968 | Added on Wednesday, 9 June 2021 08:48:27
