@@ -305,16 +305,6 @@ The State and Revolution: Full Text of 1917 Edition (Illustrated) (Lenin, Vladim
 Special laws are enacted proclaiming the sanctity and immunity of the officials. “The shabbiest police servant” has more “authority” than the representative of the clan, but even the head of the military power of a civilized state may well envy the elder of a clan the “unrestrained respect” of society.
 ==========
 The State and Revolution: Full Text of 1917 Edition (Illustrated) (Lenin, Vladimir Ilyich)
-- Your Highlight on page 2 | location 2341-2358 | Added on Wednesday, 22 May 2019 05:02:26
-
-The state is a product and a manifestation of the irreconcilability of class antagonisms.
-==========
-The State and Revolution: Full Text of 1917 Edition (Illustrated) (Lenin, Vladimir Ilyich)
-- Your Highlight on page 2 | location 2358-2377 | Added on Wednesday, 22 May 2019 05:04:31
-
-The state arises where, when and insofar as class antagonism objectively cannot be reconciled.
-==========
-The State and Revolution: Full Text of 1917 Edition (Illustrated) (Lenin, Vladimir Ilyich)
 - Your Highlight on page 3 | location 2557-2603 | Added on Wednesday, 22 May 2019 05:06:34
 
 According to Marx, the state is an organ of class rule, an organ for the oppression of one class by another; it is the creation of “order”, which legalizes and perpetuates this oppression by moderating the conflict between classes.
@@ -5916,12 +5906,7 @@ In addition, longevity as a senior leader is just as much about maintaining your
 Staff Engineer: Leadership beyond the management track (Larson, Will)
 - Your Highlight on page 61 | location 1075-1076 | Added on Sunday, 13 March 2022 22:00:29
 
-Shift your contribution towards asking questions. Asking the right questions helps avoid missteps, but also makes it easier for more folks to contribute If
-==========
-Staff Engineer: Leadership beyond the management track (Larson, Will)
-- Your Highlight on page 61 | location 1075-1076 | Added on Sunday, 13 March 2022 22:00:37
-
-Shift your contribution towards asking questions. Asking the right questions helps avoid missteps, but also makes it easier for more folks to contribute
+Shift your contribution towards asking questions. Asking the right questions helps avoid missteps, but also makes it easier for more folks to contribute.
 ==========
 Staff Engineer: Leadership beyond the management track (Larson, Will)
 - Your Highlight on page 61 | location 1078-1080 | Added on Sunday, 13 March 2022 22:01:20
@@ -5931,17 +5916,17 @@ Be the one to take notes. This helps destigmatize note-taking as “low status�
 Staff Engineer: Leadership beyond the management track (Larson, Will)
 - Your Highlight on page 62 | location 1080-1081 | Added on Sunday, 13 March 2022 22:01:33
 
-If you realize someone’s missing from the discussion who should be there, be the person to pull them into the next occurrence of the meeting. Talk with the meeting coordinator to let them know why it’s valuable to include them
+If you realize someone’s missing from the discussion who should be there, be the person to pull them into the next occurrence of the meeting. Talk with the meeting coordinator to let them know why it’s valuable to include them.
 ==========
 Staff Engineer: Leadership beyond the management track (Larson, Will)
 - Your Highlight on page 62 | location 1096-1098 | Added on Sunday, 13 March 2022 22:04:03
 
-Separate style from substance, and stop giving style feedback on other folks’ decisions. If a piece of feedback won’t meaningfully change a project’s success, then consider not giving it. If it’s useful but not critical, potentially make a private suggestion rather than pulling a meeting into your orbit
+Separate style from substance, and stop giving style feedback on other folks’ decisions. If a piece of feedback won’t meaningfully change a project’s success, then consider not giving it. If it’s useful but not critical, potentially make a private suggestion rather than pulling a meeting into your orbit.
 ==========
 Staff Engineer: Leadership beyond the management track (Larson, Will)
 - Your Highlight on page 63 | location 1101-1102 | Added on Sunday, 13 March 2022 22:04:56
 
-One of the biggest signs of respect for your coworkers is listening to them and then changing your mind afterward. If senior leaders don’t change their mind, then soon everyone will correlate bluster with success
+One of the biggest signs of respect for your coworkers is listening to them and then changing your mind afterward. If senior leaders don’t change their mind, then soon everyone will correlate bluster with success.
 ==========
 Staff Engineer: Leadership beyond the management track (Larson, Will)
 - Your Highlight on page 64 | location 1126-1129 | Added on Sunday, 13 March 2022 22:08:41
