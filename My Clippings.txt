@@ -4772,7 +4772,7 @@ The four golden signals of monitoring are latency, traffic, errors, and saturati
 Site Reliability Engineering (Murphy, Niall Richard)
 - Your Highlight on page 91 | location 1636-1637 | Added on Tuesday, 31 August 2021 12:36:04
 
-As is well understood in the industry, the later in the product lifecycle a problem is discovered, the more expensive it is to fix;
+The later in the product lifecycle a problem is discovered, the more expensive it is to fix.
 ==========
 Site Reliability Engineering (Murphy, Niall Richard)
 - Your Highlight on page 93 | location 1679-1681 | Added on Tuesday, 31 August 2021 12:43:54
@@ -4783,31 +4783,6 @@ The Brain (Eagleman, David)
 - Your Highlight on page 10 | location 60-63 | Added on Wednesday, 1 September 2021 13:19:50
 
 All the experiences in your life – from single conversations to your broader culture – shape the microscopic details of your brain. Neurally speaking, who you are depends on where you’ve been. Your brain is a relentless shape-shifter, constantly rewriting its own circuitry – and because your experiences are unique, so are the vast, detailed patterns in your neural networks. Because they continue to change your whole life, your identity is a moving target; it never reaches an endpoint.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 15042-15045 | Added on Thursday, 2 September 2021 06:57:30
-
-காவிரிக்கரை வரை களவுக்குப்போனவன் சாவுக்காகக் காத்து, பட்டியக்கல்லில் படுத்துக்கிடந்தாலும் தொங்கிக்கொண்டிருக்கும் கால்கள் காற்றில் நடந்தவாறே காவிரிக் கரைவரை போகும்.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 15089-15094 | Added on Thursday, 2 September 2021 07:04:25
-
-தென்கடைசியில் இருந்த மேங்காட்டுப் பொட்டலுக்குள் வந்து முடிந்தது மேல ஆவணி மூல வீதி. அடர்ந்த மரங்களுக்குள் பறவைகளும் அயர்ந்து உறங்கின. மேங்காட்டுப் பொட்டலுக்குள் குடிகொண்டிருந்த கரும் இருட்டுக்குள்ளிருந்து மாடுகளின் மணிச்சந்தம் துல்லியமாய் கேட்டுக்கொண்டிருந்தது.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 15468-15472 | Added on Thursday, 2 September 2021 07:33:28
-
-எடுத்த பொருளை மாரியம்மன் தெப்பக்குளத்து மைய மண்டபத்திலோ, வண்டியூருக்கு அருகில் ஆற்றின் நடுவில் உள்ள கல்மண்டபத்திலோ வைத்துப் பிரித்துக்கொண்டு வெவ்வேறு திசைகளில் உள்ள ஊர்களுக்குப் போய்ச்சேந்தனர்.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 15509-15512 | Added on Thursday, 2 September 2021 07:36:21
-
-பேச்சு மாறிமாறி கோயில் நிர்வாகம், பிராமணர்களால் நடத்தப்பட்ட கையாடல்கள், முறைகேடுகள், புதிதாக அரசு நிர்ணயித்துள்ள நிர்வாகக் குழு ஆகியவை பற்றியே இருந்தது.
-==========
-Kaaval Kottam  (Tamil) (S.Venkatesan)
-- Your Highlight at location 15619-15622 | Added on Thursday, 2 September 2021 07:44:43
-
-நான் மாடக்கூடலின் வீதிகளின் திரிகிற இருளின் கழுத்தில் வடம்போட்டு சாவடியின் தூண்களின் தாதனூர்க்காரர்கள் கட்டி வைத்திருந்தனர்.
 ==========
 The Brain (Eagleman, David)
 - Your Highlight on page 14 | location 107-109 | Added on Friday, 3 September 2021 01:29:40
