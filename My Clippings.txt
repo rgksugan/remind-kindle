@@ -1050,11 +1050,6 @@ If we are to live under a dictatorship, it should be a communist one.
 அது உண்மையும்கூட. அவர்களை கைகால்களாகக் கொண்டுதான் நாங்கள் செயல்பட முடியும். அவர்களை எங்கள் மூளை இயக்கவேண்டும். நாங்கள் அவர்களைச் சார்ந்திருக்கும்போதும் அவர்கள் எங்களைச் சார்ந்திருப்பதான பிரமையை உருவாக்க வேண்டும். அதற்குதான் எங்களுக்குப் பயிற்சி அளிக்கப்படுகிறது. மேலிருந்து கீழே வந்து இவர்களைத் தொடும் அரசதிகாரத்தின் விரல்நுனி மட்டும்தான் நாங்கள். ஒருவகையில் அவர்களை வேவு பார்ப்பவர்கள், அவர்களுக்கு ஆணையிடும் அரசாங்கத்தின் நாக்குநுனி, அல்லது சவுக்குநுனி.
 ==========
 யானை டாக்டர்  / Yaanai Doctor (Tamil Edition) (ஜெயமோகன் / Jeyamohan)
-- Your Highlight at location 431-432 | Added on Friday, 18 October 2019 17:39:40
-
-வெள்ளை வேட்டிக்குமேல் கறுப்புக் கோட்டு போட்ட வழுக்கைத்தலை மனிதரைப் போன்ற பறவை.
-==========
-யானை டாக்டர்  / Yaanai Doctor (Tamil Edition) (ஜெயமோகன் / Jeyamohan)
 - Your Highlight at location 521-524 | Added on Friday, 18 October 2019 17:54:03
 
 உண்மையிலே மனுஷன்தான் இருக்கறதிலேயே வீக்கான மிருகம். மத்த மிருகங்கள்லாம் நோயையும் வலியையும் பொறுத்துக்கறதில இருக்கற கம்பீரத்தைப் பாத்தா கண்ணுல தண்ணி வந்துடும்.
@@ -2158,11 +2153,6 @@ On Tyranny (Snyder, Timothy)
 - Your Highlight on page 28 | location 166-169 | Added on Friday, 24 April 2020 01:12:26
 
 When fascists or Nazis or communists did well in elections in the 1930s or ’40s, what followed was some combination of spectacle, repression, and salami tactics—slicing off layers of opposition one by one. Most people were distracted, some were imprisoned, and others were outmatched.
-==========
-On Tyranny (Snyder, Timothy)
-- Your Highlight on page 28 | location 169-171 | Added on Friday, 24 April 2020 01:14:13
-
-The hero of a David Lodge novel says that you don’t know, when you make love for the last time, that you are making love for the last time. Voting is like that. Some of the Germans who voted for the Nazi Party in 1932 no doubt understood that this might be the last meaningfully free election for some time, but most did not.
 ==========
 On Tyranny (Snyder, Timothy)
 - Your Highlight on page 29 | location 179-181 | Added on Friday, 24 April 2020 01:16:26
@@ -5484,7 +5474,7 @@ The agricultural revolution catapulted human technology to a level that made pos
 Grokking Algorithms: An illustrated guide for programmers and other curious people (Bhargava, Aditya)
 - Your Highlight at location 281-282 | Added on Friday, 28 January 2022 23:10:23
 
-It’s hard to overstate hash tables’ usefulness. When I want to solve a problem, the two plans of attack I start with are “Can I use a hash table?” and “Can I model this as a graph?”
+When I want to solve a problem, the two plans of attack I start with are “Can I use a hash table?” and “Can I model this as a graph?”
 ==========
 Designing Data-Intensive Applications (Kleppmann, Martin)
 - Your Highlight on page 257 | location 5014-5019 | Added on Saturday, 29 January 2022 21:24:25
@@ -5541,11 +5531,6 @@ Kazhivarai Irukkai (Tamil Edition) (Balasubramanian, Latha)
 - Your Highlight on page 39 | location 846-848 | Added on Tuesday, 8 March 2022 07:24:36
 
 காமம் குறித்தான பேச்சிற்கும் காமம் நிறைந்த பேச்சிற்குமான வித்தியாசத்தைப் பலர் உணர்வதே இல்லை.
-==========
-Kazhivarai Irukkai (Tamil Edition) (Balasubramanian, Latha)
-- Your Highlight on page 40 | location 856-862 | Added on Tuesday, 8 March 2022 07:25:52
-
-நான் உணவு பற்றிப் பேசினால், என் வீட்டின் முன்னே தட்டை ஏந்திக் கொண்டு ஆண்கள் வரிசையில் நிற்பதில்லை நான் உணவளிக்கப் போகிறேன் என்று. ஆனால் நான் காமம் பற்றிப் பேசினால் மட்டும், அவர்கள் யோசிப்பதோ, அனுமானிப்பதோ இல்லை, முடிவே செய்து விடுகிறார்கள் நான் அவர்களை படுக்கைக்குத் தான் கூப்பிடுவதாக.
 ==========
 Kazhivarai Irukkai (Tamil Edition) (Balasubramanian, Latha)
 - Your Highlight on page 41 | location 880-891 | Added on Tuesday, 8 March 2022 07:28:19
